@@ -18,3 +18,6 @@ After moving a block, it updates the current positions to reflect the move.
 It continues checking and moving blocks one by one until all blocks match the goal state.
 7.	Print Final State:
 Finally, it prints the last arrangement of blocks confirming the goal is reached.
+
+...
+#RUN: https://www.programiz.com/online-compiler/2sFoTpJDjI8yt
