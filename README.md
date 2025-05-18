@@ -19,5 +19,7 @@ It continues checking and moving blocks one by one until all blocks match the go
 7.	Print Final State:
 Finally, it prints the last arrangement of blocks confirming the goal is reached.
 
-...
-#RUN: https://www.programiz.com/online-compiler/2sFoTpJDjI8yt
+
+RUN: 
+https://www.programiz.com/online-compiler/2sFoTpJDjI8yt
+https://www.programiz.com/online-compiler/6FWVjgAnz9iVT
