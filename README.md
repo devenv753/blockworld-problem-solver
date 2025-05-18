@@ -1,4 +1,5 @@
-Question: How does this Block World Solver code move blocks from the start state to the goal state?
+Question: <br>
+How does this Block World Solver code move blocks from the start state to the goal state?
 This Block World Solver compares each block’s current position with its goal position. If a block is not in the right place, it moves the block step-by-step to the desired position. It repeats this until all blocks match the goal state.
 
 Step-by-step Explanation of  solve_blocks Function: 
